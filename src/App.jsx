@@ -1,5 +1,6 @@
  import Hero from "./views/Hero"
 import Products from "./views/Products"
+import Reference from "./views/Reference"
 import Services from "./views/Services"
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
      <Hero />
      <Services />
      <Products />
+     <Reference />
     </>
   )
 }
