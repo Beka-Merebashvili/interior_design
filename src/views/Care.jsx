@@ -26,7 +26,7 @@ const Care = () => {
                 <img
                   src={item.img}
                   alt={item.title}
-                  className="h-[78px] w-[68px]"
+                  className="h-[88px] w-[68px]"
                 />
                 <div>
                   <h3 className="text-center xs:text-start mb-2 text-2xl lg:text-[28px] text-fontBlack font-medium">
