@@ -1,4 +1,5 @@
  import Care from "./views/Care"
+import Footer from "./views/Footer"
 import Hero from "./views/Hero"
 import Products from "./views/Products"
 import Reference from "./views/Reference"
@@ -14,6 +15,7 @@ function App() {
      <Products />
      <Reference />
      <Care />
+     <Footer />
     </>
   )
 }
